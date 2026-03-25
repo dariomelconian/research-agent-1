@@ -63,6 +63,12 @@ ANTHROPIC_API_KEY=your_key_here
 python main.py
 ```
 
+## Demo
+
+**Prompt entered:** `Singapore population, save to text`
+
+![Demo output](assets/demo.png)
+
 ## Author
 
 Dario Melconian
